@@ -13,3 +13,9 @@ body
   color: black;
   text-align: center;
 }
+
+#line
+{
+  width = 3000px;
+  height = 1000px;
+}
